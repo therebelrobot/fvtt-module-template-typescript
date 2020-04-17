@@ -13,6 +13,7 @@
     "@types/jquery": "^3.3.35",
     "@types/react": "^16.9.34",
     "@types/react-dom": "^16.9.6",
+    "foundry-pc-types": "https://gitlab.com/foundry-projects/foundry-pc/foundry-pc-types.git",
     "parcel-bundler": "^1.12.4",
     "typescript": "^3.8.3"
   },

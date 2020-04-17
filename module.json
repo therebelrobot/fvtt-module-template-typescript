@@ -1,0 +1,23 @@
+{
+	"name": "fvtt-module-template-typescript",
+	"title": "Template Module",
+	"description": "This is a template module. Please build a real one.",
+	"version": "0.0.1",
+	"author": "therebelrobot#1280",
+	"systems": ["dnd5e"],
+	"scripts": ["/dist/main.js"],
+    "esmodules": [],
+	"styles": [],
+	"packs": [],
+    "languages": [
+        {
+          "lang": "en",
+          "name": "English",
+          "path": "lang/en.json"
+        }
+    ],
+    "url": "https://github.com/therebelrobot/fvtt-module-template-typescript",
+    "manifest": "https://raw.githubusercontent.com/therebelrobot/fvtt-module-template-typescript/master/module.json",
+    "download": "https://github.com/therebelrobot/fvtt-module-template-typescript/archive/master.zip",
+    "minimumCoreVersion": "0.5.4"
+}
